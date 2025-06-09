@@ -16,9 +16,9 @@ This project combines both **theoretical explanations** and **practical code** f
 - Statsmodels
 - Matplotlib, Seaborn
 
-## 📄 File
-- `TimeSeries_Theory_and_Practice.ipynb`: Combined theory & hands-on exercises
+## File
+- `TimeSeries.ipynb`: Combined theory & hands-on exercises
 
-## 👤 Author
+## Author
 Adapted and annotated by **Pham Van Tai**, based on learning materials from Kaggle.
 
