@@ -17,7 +17,7 @@ This project combines both **theoretical explanations** and **practical code** f
 - Matplotlib, Seaborn
 
 ## File
-- `TimeSeries.ipynb`: Combined theory & hands-on exercises
+- `Time_Series.ipynb`: Combined theory & hands-on exercises
 
 ## Author
 Adapted and annotated by **Pham Van Tai**, based on learning materials from Kaggle.
